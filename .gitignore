@@ -4,6 +4,9 @@
 #.env
 #.env.test
 
+# ROM files
+ISSD_*.smc
+
 # Logs
 logs
 *.log
